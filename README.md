@@ -57,7 +57,7 @@ This project is a Flappy Bird game implemented using Python and Pygame, enhanced
     Execute the main script to start the simulation:
 
     ```bash
-    python main.py
+    python FlappyBird.py
     ```
 
     This will train the AI to play Flappy Bird using the NEAT algorithm. The AI's performance will improve over generations.
